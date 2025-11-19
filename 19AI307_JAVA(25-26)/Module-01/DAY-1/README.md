@@ -26,7 +26,7 @@ To write a Java program that demonstrates the use of variables, data types, oper
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
+Program to implement a Datatypes using Java
 Developed by: SHALINI K
 RegisterNumber:21222240095
 */
@@ -60,4 +60,5 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
 
