@@ -18,7 +18,7 @@ To create and execute a thread using the `Runnable` interface, set its name from
 ## PROGRAM:
  ```
 /*
-Program to implement a conditional statement using Java
+Program to implement a thread priority using Java
 Developed by: SHALINI K
 RegisterNumber:  212222240095
 */
@@ -51,3 +51,4 @@ public class A implements Runnable {
 
 ## RESULT:
 The program successfully creates a thread with a user-given name, prints its priority and name, and displays the thread details when executed.
+
