@@ -20,7 +20,7 @@ To write user information (name, age, email) into a text file using `FileWriter`
 ## PROGRAM:
  ```
 /*
-Program to implement a conditional statement using Java
+Program to implement a file handling using Java
 Developed by: SHALINI K
 RegisterNumber:  212222240095
 */
@@ -74,3 +74,4 @@ public class main
 
 ## RESULT:
 The program successfully stores user details into a text file and reads them back line by line, displaying the stored content in the console.
+
